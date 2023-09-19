@@ -1,0 +1,21 @@
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\bin\Debug\AplikasiLatihanTugasTiga3.exe.config
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\bin\Debug\AplikasiLatihanTugasTiga3.exe
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\bin\Debug\AplikasiLatihanTugasTiga3.pdb
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.csprojAssemblyReference.cache
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.frmLatihanTiga3.resources
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.Properties.Resources.resources
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.csproj.GenerateResource.cache
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.csproj.CoreCompileInputs.cache
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.exe
+E:\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.pdb
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\bin\Debug\AplikasiLatihanTugasTiga3.exe.config
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\bin\Debug\AplikasiLatihanTugasTiga3.exe
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\bin\Debug\AplikasiLatihanTugasTiga3.pdb
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.csproj.AssemblyReference.cache
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.frmLatihanTiga3.resources
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.Properties.Resources.resources
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.csproj.GenerateResource.cache
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.csproj.CoreCompileInputs.cache
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.exe
+C:\Users\LCNRC\OneDrive\Documents\DOKUMEN PERKULIAHAN\Pemrograman\22.11.4769\pertemuan3\AplikasiLatihanTugasTiga3\AplikasiLatihanTugasTiga3\obj\Debug\AplikasiLatihanTugasTiga3.pdb
